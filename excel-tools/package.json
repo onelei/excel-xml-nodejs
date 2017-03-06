@@ -1,0 +1,7 @@
+{
+  "name": "excel-tools",
+  "version": "0.0.1",
+  "devDependencies": {
+    "excel-parser": "^0.2.2"
+  }
+}
